@@ -69,7 +69,7 @@ bgcolor="#755D9A">
 
 <p> Свадьба в Чэнду 
  
-<CENTER> <H2>Достопримечательности Чэнду. </CENTER> </H2>
+ <H2>Достопримечательности Чэнду.  </H2>
  <P><CENTER><IMG SRC="рисунок8.jpg" align="left" width="200" ></p></CENTER>
 
  	
@@ -82,14 +82,10 @@ bgcolor="#755D9A">
 <HR>
 
 
-  < P><CENTER><IMGSRC="рисунок9.jpg" 
+<IMGSRC="рисунок9.jpg" 
 
-    <td class="leftcol"><img src="рисунок10.jpg" 
+	<img src="рисунок10.jpg" 
 
-    <HR >
- 	<ширина таблицы
-   <tr>
-  <tdclass
 
 
 <HR>
