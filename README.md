@@ -48,24 +48,24 @@ bgcolor="#755D9A">
 <p align="right">Источник: <A HREF=""> https://visitchina.ru/</a> </p>
 
  
-<CENTER> <H2>Фотогалерея.</CENTER> </H2>
+<CENTER> <H2>Фотогалерея. </H2>
  
-<P><CENTER><IMG SRC="рисунок1.jpg"></p></CENTER>
+<P><CENTER><IMG SRC="рисунок1.jpg"></CENTER>
 </A>
  <p> Ночная панорама Чэнду 
- <P><CENTER><IMG SRC="рисунок2.jpg""></p></CENTER>
+ <P><CENTER><IMG SRC="рисунок2.jpg""></CENTER>
     
 <p> Продавец мандаринов в Чэнду 
-  <P><CENTER><IMG SRC="рисунок3.jpg""></p></CENTER>
+  <P><CENTER><IMG SRC="рисунок3.jpg""></CENTER>
 
 <p> Панорама Чэнду на Миньцзян 
-  <P><CENTER><IMG SRC="рисунок4.jpg"></p></CENTER>
+  <P><CENTER><IMG SRC="рисунок4.jpg"></CENTER>
 
 <p> Ночные фонари 
- <P><CENTER><IMG SRC="рисунок5.jpg"></p></CENTER>
+ <P><CENTER><IMG SRC="рисунок5.jpg"></CENTER>
 
 <p> Ночной Чэнду 
- <P><CENTER><IMG SRC="рисунок6.jpg"></p></CENTER>
+ <P><CENTER><IMG SRC="рисунок6.jpg"></CENTER>
 
 <p> Свадьба в Чэнду 
  
