@@ -145,5 +145,4 @@ bgcolor="#755D9A">
 <p><A HREF="https://youtu.be/7daWl1qNaS4">https://www.youtube.com 
 <p><A HREF="https://youtu.be/GI89f8ncKbQ">https://www.youtube.com 
 	
-<IMG SRC="гифка.gif">
 
