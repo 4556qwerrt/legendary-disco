@@ -52,10 +52,10 @@ bgcolor="#755D9A">
 <P><CENTER><IMG SRC="Рисунок1.jpg"></CENTER>
 </A>
  <p> Ночная панорама Чэнду 
- <P><CENTER><IMG SRC="Рисунок2.jpg""></CENTER>
+ <P><CENTER><IMG SRC="Рисунок2.jpg"></CENTER>
     
 <p> Продавец мандаринов в Чэнду 
-  <P><CENTER><IMG SRC="Рисунок3.jpg""></CENTER>
+  <P><CENTER><IMG SRC="Рисунок3.jpg"></CENTER>
 
 <p> Панорама Чэнду на Миньцзян 
   <P><CENTER><IMG SRC="Рисунок4.jpg"></CENTER>
