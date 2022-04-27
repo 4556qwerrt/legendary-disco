@@ -132,7 +132,7 @@ bgcolor="#755D9A">
 <p align="center">你会挽着我的衣袖 我会把手揣进裤兜</p>
 <p align="center">走到玉林路的尽头 坐在(走过)小酒馆的门口</p>
  
-<p align="center">和我在成都的街头走一走</Загрузка завершена>
+<p align="center">和我在成都的街头走一走
 <p align="center">直到所有的灯都熄灭了也不停留</p>
 <p align="center">和我在成都的街头走一走</p>
 <p align="center">直到所有的灯都熄灭了也不停留</p>
