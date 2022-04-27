@@ -48,11 +48,9 @@ bgcolor="#755D9A">
 
  
 <CENTER> <H2>Фотогалерея. </H2>
- 
-<P><CENTER><IMG SRC="Рисунок1.jpg"></CENTER>
-</A>
+
  <p> Ночная панорама Чэнду 
- <P><CENTER><IMG SRC="Рисунок2.jpg"></CENTER>
+ <P><CENTER><IMG SRC="Рисунок1.jpg"></CENTER>
     
 <p> Продавец мандаринов в Чэнду 
   <P><CENTER><IMG SRC="Рисунок3.jpg"></CENTER>
