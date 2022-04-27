@@ -19,7 +19,7 @@ bgcolor="#755D9A">
 \
 <p align="left">В интернете можно найти достаточно подробных карт окрестностей Чэнду.
 
- <A HREF="https://yandex.ru/maps/20897/chengdu/?ll=104.195151%2C30.662720&source=wizgeo&utm_medium=maps-desktop&utm_source=serp&z=10"><IMG SRC="рисунок14.jpg"></p>
+ <A HREF="https://yandex.ru/maps/20897/chengdu/?ll=104.195151%2C30.662720&source=wizgeo&utm_medium=maps-desktop&utm_source=serp&z=10"><IMG SRC="рисунок14.jpg" style="width:202;height:360; border:4></p>
 </A>
 
  <p> Карта Чэнду (Яндекс)
