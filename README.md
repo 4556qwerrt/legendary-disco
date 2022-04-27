@@ -131,5 +131,5 @@ bgcolor="#755D9A">
 <p align="left"><A HREF="https://www.youtube.com/watch?v=flgHwfP0ATQ">https://www.youtube.com 
 <p align="left"><A HREF="https://youtu.be/7daWl1qNaS4">https://www.youtube.com 
 <p align="left"><A HREF="https://youtu.be/GI89f8ncKbQ">https://www.youtube.com 
-	
-
+		
+<p align="left"><A HREF="https://4556qwerrt.github.io/ubiquitous-umbrella/">Вернуться на главную.
