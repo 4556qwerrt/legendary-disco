@@ -139,10 +139,11 @@ bgcolor="#755D9A">
 <p align="center">你会挽着我的衣袖 我会把手揣进裤兜</p>
 <p align="center">走到玉林路的尽头 坐在(走过)小酒馆的门口</p>
 
-<p>Исполнение <b>_BOS_都 (Cheng du)</b> <A HREF="">https://www.youtube.com /</p></a>
+<p>Исполнение <b>_BOS_都 (Cheng du)</b> <A HREF="">https://www.youtube.com 
 <p>Другие материалы, связанные с Чэнду:</p>
-<p><A HREF="https://www.youtube.com/watch?v=flgHwfP0ATQ">https://www.youtube.com / </p></a>
-<p><A HREF="https://youtu.be/7daWl1qNaS4">https://www.youtube.com /</p> </a>
-<p><A HREF="https://youtu.be/GI89f8ncKbQ">https://www.youtube.com /</p></a>
-<IMG SRC="гифка.gif"></p></CENTER>
+<p><A HREF="https://www.youtube.com/watch?v=flgHwfP0ATQ">https://www.youtube.com 
+<p><A HREF="https://youtu.be/7daWl1qNaS4">https://www.youtube.com 
+<p><A HREF="https://youtu.be/GI89f8ncKbQ">https://www.youtube.com 
+	
+<IMG SRC="гифка.gif">
 
